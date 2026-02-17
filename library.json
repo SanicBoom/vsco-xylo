@@ -1,0 +1,16 @@
+{
+  "name": "vsco-xylo",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "attribution": "VSCO 2 Community Edition by Versilian Studios",
+  "samples": {
+    "xylo_medium_c4_ff_01_far": "Xylo_Medium_C4_ff_01_far.wav",
+    "xylo_medium_c5_ff_01_far": "Xylo_Medium_C5_ff_01_far.wav",
+    "xylo_medium_c6_ff_01_far": "Xylo_Medium_C6_ff_01_far.wav",
+    "xylo_medium_c7_ff_01_far": "Xylo_Medium_C7_ff_01_far.wav",
+    "xylo_medium_g3_ff_01_far": "Xylo_Medium_G3_ff_01_far.wav",
+    "xylo_medium_g4_ff_01_far": "Xylo_Medium_G4_ff_01_far.wav",
+    "xylo_medium_g5_ff_01_far": "Xylo_Medium_G5_ff_01_far.wav",
+    "xylo_medium_g6_ff_01_far": "Xylo_Medium_G6_ff_01_far.wav"
+  }
+}
