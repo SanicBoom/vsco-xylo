@@ -12,5 +12,55 @@
     "xylo_medium_g4_ff_01_far": "Xylo_Medium_G4_ff_01_far.wav",
     "xylo_medium_g5_ff_01_far": "Xylo_Medium_G5_ff_01_far.wav",
     "xylo_medium_g6_ff_01_far": "Xylo_Medium_G6_ff_01_far.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "G3",
+      "sample": "xylo_medium_g3_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "xylo_medium_c4_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "xylo_medium_g4_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "xylo_medium_c5_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "xylo_medium_g5_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "xylo_medium_c6_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G6",
+      "sample": "xylo_medium_g6_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C7",
+      "sample": "xylo_medium_c7_ff_01_far",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
